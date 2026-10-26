@@ -59,3 +59,4 @@
 | OpenConnector | [GitHub](https://github.com/oomol-lab/open-connector) | 开源 Agent 连接器网关（Apache-2.0，Pipedream / Composio 替代）：用户授权一次，向 Agent 暴露 1000+ 服务商、10000+ 预置 Action，SDK / CLI / MCP / HTTP 多接口 |
 | Butterbase | [GitHub](https://github.com/butterbase-ai/butterbase) | 面向 AI 应用的开源 BaaS（Apache-2.0）：Postgres + RLS、Serverless 函数、LLM 网关、实时订阅、KV、文件存储与 MCP |
 | AgentENV | [GitHub](https://github.com/kvcache-ai/AgentENV) | 清华 KVCache.AI 开源的大规模 Agent 环境平台（MIT）：Firecracker 微虚机 <50ms 启动 / 恢复、增量快照与 fork，为 Kimi K3 的 Agentic RL 训练提供环境 |
+| IPClaw | [官网](https://metaver.vip/ipclaw) | 「专家 Agent 网络」（非开源，中文界面）：工作 Agent（如 Codex、Claude Code、Hermes）遇到需要行业经验、责任判断或真实资源的问题时，可通过 IPClaw CLI 或公开目录搜索由真人专家授权的专家 Agent 并先预聊，确认问题、边界和匹配度；只有用户明确同意后，才把结构化需求转给已核验的真人专家 |
